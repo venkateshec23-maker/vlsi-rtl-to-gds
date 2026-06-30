@@ -43,5 +43,4 @@ During Global Placement, the flow failed with **GPL-0302** (target density too h
 
 ## Chip Layout
 
-<!-- TODO: Add KLayout screenshot -->
-<!-- ![KLayout screenshot](images/alu4bit_layout.png) -->
+![KLayout screenshot](images/alu4bit_layout.png)
