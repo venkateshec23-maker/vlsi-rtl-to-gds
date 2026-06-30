@@ -1,0 +1,19 @@
+Design Name: picorv32
+Run Directory: /openlane/designs/picorv32a/runs/RUN_2026.06.30_07.07.01
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/picorv32a/runs/RUN_2026.06.30_07.07.01/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/picorv32a/runs/RUN_2026.06.30_07.07.01/logs/signoff/39-picorv32.lef.lvs.log
+Number of nets: 12855                      |Number of nets: 12855                      
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/picorv32a/runs/RUN_2026.06.30_07.07.01/logs/signoff/41-arc.log
+Pin violations: 48
+Net violations: 41
